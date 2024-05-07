@@ -1,6 +1,6 @@
 import { FlatList, StyleSheet, View } from "react-native";
 import CardAnimals from "./Card";
-import dataAnimal from "../data/data";
+import dataAnimal from "../data/data.js";
 
 const data = dataAnimal;
 

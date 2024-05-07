@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "my-mobile-app",
+    "slug": "my-mobile-app",
+    "version": "1.0.0",
+    "description": "",
+    "sdkVersion": "48.0.0",
+    "platforms": [],
+    "android": {
+      "package": "com.developerlight.mymobileapp"
+    }
+  }
+}
